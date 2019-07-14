@@ -1,5 +1,8 @@
 # es4x-vs-nodejs-benchmarks
-Performance Benchmarks es4x vs 0http vs restana vs express
+Performance Benchmarks es4x vs 0http vs restana vs express  
+- Discussion details:
+https://twitter.com/pml0pes/status/1150348604378427392
+
 
 ## Basic GET /hi -> "Hello World!" test
 We run the tests using:
