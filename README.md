@@ -27,4 +27,4 @@ The `no routing` flag means requests routing is not being used. More on Vertx ES
 - 0http Framework https://www.npmjs.com/package/0http
 - express Framework https://expressjs.com/
 - ES4X https://reactiverse.io/es4x/
-- WRK2 https://github.com/giltene/wrk2
+- wrk2 https://github.com/giltene/wrk2
