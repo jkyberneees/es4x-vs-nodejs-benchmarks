@@ -1,0 +1,31 @@
+{
+  "name": "empty",
+  "version": "1.0.0",
+  "description": "This is a ES4X empty project.",
+  "scripts": {
+    "test": "es4x-launcher test js:index.test.js",
+    "postinstall": "es4x install",
+    "es4x": "es4x-launcher es4x.js",
+    "node": "node nativenode.js",
+    "0http": "node 0http.js",
+    "restana": "node restana.js",
+    "express": "node express.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "standard": "^13.0.2"
+  },
+  "engines": {
+    "node": ">=10.16"
+  },
+  "dependencies": {
+    "0http": "^1.0.0",
+    "@vertx/core": "^3.7.1",
+    "@vertx/web": "3.7.1",
+    "es4x-pm": "^0.8.0",
+    "express": "^4.17.1",
+    "restana": "^3.2.3"
+  }
+}
